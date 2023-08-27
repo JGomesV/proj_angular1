@@ -1,0 +1,12 @@
+.title{
+    background-color: brown;
+    color: #fff;
+    padding: 20px; 
+    text-align: center;
+    margin-top: 0px;
+    text-decoration: none; 
+    position: relative;
+    width: 100%;
+    border: 20px;
+    border-color: black ; 
+}
